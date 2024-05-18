@@ -1,0 +1,6 @@
+names:
+ 0: drone
+nc: 1
+path: /content/gdrive/MyDrive/Dataset/Drone/
+train: /content/gdrive/MyDrive/Dataset/Drone/images/train/
+val: /content/gdrive/MyDrive/Dataset/Drone/images/valid/
